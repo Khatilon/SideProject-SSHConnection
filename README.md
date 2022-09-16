@@ -1,0 +1,1 @@
+This is short script which leverage ssh to connect server.
